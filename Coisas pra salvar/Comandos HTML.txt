@@ -4,8 +4,8 @@ Definições importantes                                                        
                                                                                                                       |
 &nbsp;      Da espaço na página                                                                                       |
 <wbr/>      Cria uma quebra de palavra                                                                                |
-&shy;       Cria uma quebra de palavra com Hífen
-<figure>                                                                      |
+&shy;       Cria uma quebra de palavra com Hífen                                                                      |
+<figure>                                                                                                              |
                                                                                                                       |
 ______________________________________________________________________________________________________________________|
                                                                                                                       |
